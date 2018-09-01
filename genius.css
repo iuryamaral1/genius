@@ -1,0 +1,32 @@
+.quarter-circle-top-left{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 0 0 100px 0;
+    -moz-border-radius: 0 0 100px 0;
+    -webkit-border-radius: 0 0 100px 0;
+}
+.quarter-circle-top-right{
+     width: 100px;
+     height: 100px;
+     background: blue;
+     border-radius: 0 0 0 100px;
+     -moz-border-radius: 0 0 0 100px;
+     -webkit-border-radius: 0 0 0 100px;
+}
+.quarter-circle-bottom-left{
+     width: 100px;
+     height: 100px;
+     background: green;
+     border-radius: 0 100px 0 0;
+     -moz-border-radius: 0 100px 0 0;
+     -webkit-border-radius: 0 100px 0 0;
+}
+.quarter-circle-bottom-right{
+     width: 100px;
+     height: 100px;
+     background: yellow;
+     border-radius: 100px 0 0 0;
+     -moz-border-radius: 100px 0 0 0;
+     -webkit-border-radius: 100px 0 0 0;
+}
